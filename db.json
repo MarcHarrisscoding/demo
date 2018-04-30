@@ -11,7 +11,7 @@
   "profile": {
     "name": "typicode"
   },
-  "pageData": {
-    "Title": "Test Title"
-  }
+  "pagedata": [
+    "title": "Test Title"
+  ]
 }
